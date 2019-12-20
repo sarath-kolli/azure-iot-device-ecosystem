@@ -11,8 +11,8 @@ Deploy Azure Stack HCI and WAC, Azure IoT Edge
 # Table of Contents
 
 -   [Introduction](#Introduction)
--   [Step1: Deploy Azure Stack HCI, install WAC](DeployAzureStackHCIinstallWAC)
--   [Step2: Deploy Azure IoT Edge on Azure Stack HCI](DeployAzureIoTEdgeonAzureStackHCI)
+-   [Step1: Deploy Azure Stack HCI, install WAC](#DeployAzureStackHCIinstallWAC)
+-   [Step2: Deploy Azure IoT Edge on Azure Stack HCI](#DeployAzureIoTEdgeonAzureStackHCI)
 
 <a name="Introduction"></a>
 #Introduction
